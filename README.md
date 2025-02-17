@@ -36,4 +36,5 @@ Computer Engineer and Full-Stack Developer skilled in building scalable web appl
 ---
 
 ## 📎 Get in Touch
-<a href="https://www.linkedin.com/in/alturk-mohammad/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=50px /></a>
+<a href="https://www.linkedin.com/in/alturk-mohammad/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=50px /></a> 
+
